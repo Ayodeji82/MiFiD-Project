@@ -1,4 +1,4 @@
-# MiFID II Client Remediation & Transaction Reporting Risk Review (2020–2024) | MiFID II • Remediation • Regulatory Risk
+# MiFID II Client Remediation & Transaction Reporting Risk Review (2020–2024)
 
 ## 1) Project Overview
 This project reviews European capital markets transaction data (2020–2024) to assess **MiFID II client compliance**, **transaction reporting discipline**, and **regulatory risk exposure**. The core focus is **client remediation**—identifying non-compliant/pending clients, understanding where risk concentrates (client segment + product), and defining remediation actions to close documentation and classification gaps and reduce reporting exceptions. :contentReference[oaicite:0]{index=0}
@@ -46,7 +46,7 @@ This project reviews European capital markets transaction data (2020–2024) to 
 **Ayodeji Jolaoso**
 
 ## 9) Contact
-- **LinkedIn:** _Add your LinkedIn URL here_  
-- **Email:** _Add your professional email here_  
+- **LinkedIn:** (https://www.linkedin.com/in/a-jolaoso/)  
+- **Email:** dejijolaosonl@gmail.com  
 - **Location:** Netherlands (EU)
 
